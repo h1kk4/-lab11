@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/h1kk4/lab10.svg?branch=master)](https://travis-ci.org/h1kk4/lab10)
+[![Build Status](https://travis-ci.org/h1kk4/lab10.svg?branch=master)](https://travis-ci.org/h1kk4/lab11)
 the demo application redirects data from stdin to a file **log.txt** using a package **print**.
